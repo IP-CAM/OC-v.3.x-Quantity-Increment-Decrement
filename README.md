@@ -30,7 +30,7 @@ Easy to install, easy to upgrade, just copy to use
 Friendly and flexible configuration
 HTML/CSS validation
 =====================
-Free Supprts
+Free Supports
 =====================
 Mail: letcmsdev@gmail.com,jks0586@gmail.com
 Skype: jks0586
